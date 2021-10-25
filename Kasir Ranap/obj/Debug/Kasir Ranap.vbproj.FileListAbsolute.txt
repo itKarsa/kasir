@@ -1,0 +1,92 @@
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Kasir Ranap.exe.config
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Kasir Ranap.exe
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Kasir Ranap.pdb
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Kasir Ranap.xml
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\BouncyCastle.Crypto.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Google.Protobuf.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\MySql.Data.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Renci.SshNet.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\EnvDTE.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\stdole.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Microsoft.MSXML.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Google.Protobuf.xml
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\MySql.Data.xml
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\Renci.SshNet.xml
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir_Ranap.Form1.resources
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir_Ranap.Laboratorium.resources
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir_Ranap.LoginForm.resources
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir_Ranap.Resources.resources
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir_Ranap.Obat.resources
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir_Ranap.Radiologi.resources
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir_Ranap.Tindakan.resources
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir_Ranap.TotalPembayaran.resources
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir_Ranap.ViewNotaAllLaboratorium.resources
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir_Ranap.ViewNotaAllObat.resources
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir_Ranap.ViewNotaAllRadiologi.resources
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir_Ranap.ViewNotaAllTindakan.resources
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir_Ranap.ViewNotaAllTotal.resources
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir_Ranap.ViewNotaTotal.resources
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir Ranap.vbproj.GenerateResource.cache
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\RdlCompile.cache
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\RdlCompile.compiled
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir Ranap.vbproj.CoreCompileInputs.cache
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir Ranap.vbproj.CopyComplete
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir Ranap.exe
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir Ranap.xml
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir Ranap.pdb
+D:\NEW SIMRS\Kasir Ranap\Kasir Ranap\obj\Debug\Kasir Ranap.vbprojAssemblyReference.cache

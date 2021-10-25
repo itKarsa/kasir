@@ -1,0 +1,821 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Kasir
+</name>
+</assembly>
+<members>
+<member name="T:Kasir_Ranap.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.btn_blue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.btn_bluev2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.btn_red">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.btn_redv21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.cancel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.circle_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.circle_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.ic_pasw">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.ic_user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.logo_rskh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.magnifying_glass16">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.opsi1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.opsi2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.Rectangle_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.signs">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.signs_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.Spinner_1_7s_214px">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Kasir_Ranap.My.Resources.Resources.users">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpasienranapkasirDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_datalabpasienranapDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_dataradpasienranapDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_detailpenjulanobatranapDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanmedisranapDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_notatotalranapDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_penjualanobatdetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienradiologidetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanmedisDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_daftarruangakomodasiDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_detailpenjualanobatokDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpasienopdetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienrawatjalanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpxlabrajalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpxradrajalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpxradranapDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_penjualanobatrajalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_penjualanobatranapDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_penjualanobatigdDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienrawatinapDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_visiteranapDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_caritindakanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpasienrajaldetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienhddetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_penjualanobatokDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_detailpenggunaanventilatorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_tindakanopDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanranapdetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienradranapdetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienlaboratoriumdetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_detailtindakanpasienrajalDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpxlabranapDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_tindakanokparuDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpasienranapkasirRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_datalabpasienranapRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_dataradpasienranapRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_detailpenjulanobatranapRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanmedisranapRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_notatotalranapRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_penjualanobatdetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienradiologidetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanmedisRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_daftarruangakomodasiRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_detailpenjualanobatokRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpasienopdetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienrawatjalanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpxlabrajalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpxradrajalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpxradranapRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_penjualanobatrajalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_penjualanobatranapRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_penjualanobatigdRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienrawatinapRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_visiteranapRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_caritindakanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpasienrajaldetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienhddetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_penjualanobatokRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_detailpenggunaanventilatorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_tindakanopRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanranapdetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienradranapdetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienlaboratoriumdetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_detailtindakanpasienrajalRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpxlabranapRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_tindakanokparuRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpasienranapkasirRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_datalabpasienranapRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_dataradpasienranapRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_detailpenjulanobatranapRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanmedisranapRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_notatotalranapRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_penjualanobatdetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienradiologidetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanmedisRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_daftarruangakomodasiRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_detailpenjualanobatokRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpasienopdetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienrawatjalanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpxlabrajalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpxradrajalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpxradranapRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_penjualanobatrajalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_penjualanobatranapRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_penjualanobatigdRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienrawatinapRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_visiteranapRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_caritindakanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpasienrajaldetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienhddetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_penjualanobatokRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_detailpenggunaanventilatorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_tindakanopRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanranapdetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienradranapdetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_pasienlaboratoriumdetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_detailtindakanpasienrajalRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.vw_tindakanpxlabranapRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNota.t_tindakanokparuRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_tindakanpasienranapkasirTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_datalabpasienranapTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_dataradpasienranapTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_detailpenjulanobatranapTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_tindakanmedisranapTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_notatotalranapTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_penjualanobatdetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_pasienradiologidetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_tindakanmedisTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_daftarruangakomodasiTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_detailpenjualanobatokTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_tindakanpasienopdetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_pasienrawatjalanTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_tindakanpxlabrajalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_tindakanpxradrajalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_tindakanpxradranapTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.t_penjualanobatrajalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.t_penjualanobatranapTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.t_penjualanobatigdTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_pasienrawatinapTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_visiteranapTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_caritindakanTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_tindakanpasienrajaldetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_pasienhddetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.t_penjualanobatokTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.t_detailpenggunaanventilatorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.t_tindakanopTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_tindakanranapdetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_pasienradranapdetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_pasienlaboratoriumdetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.t_detailtindakanpasienrajalTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.vw_tindakanpxlabranapTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.t_tindakanokparuTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kasir_Ranap.CetakNotaTableAdapters.TableAdapterManager.UpdateUpdatedRows(Kasir_Ranap.CetakNota,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kasir_Ranap.CetakNotaTableAdapters.TableAdapterManager.UpdateInsertedRows(Kasir_Ranap.CetakNota,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kasir_Ranap.CetakNotaTableAdapters.TableAdapterManager.UpdateDeletedRows(Kasir_Ranap.CetakNota,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kasir_Ranap.CetakNotaTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kasir_Ranap.CetakNotaTableAdapters.TableAdapterManager.UpdateAll(Kasir_Ranap.CetakNota)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kasir_Ranap.CetakNotaTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
